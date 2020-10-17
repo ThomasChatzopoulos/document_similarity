@@ -8,10 +8,12 @@ Ten documents are given as samples.
 
 ![](run_example.png)
 
-## Python and Packages
+## Python packages
 
-Python version 3.8
-Packages:
-* numpy (1.18.2)
-* scikit-learn (0.22.2)
-* prettytable (1.0.1)
+### Python version 
+Python 3.8
+
+### Packages
+* numpy         (1.18.2)
+* scikit-learn  (0.22.2)
+* prettytable   (1.0.1)
