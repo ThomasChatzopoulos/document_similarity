@@ -1,0 +1,6 @@
+Google began in January 1996 as a research project by Larry Page and Sergey Brin when they were 
+both PhD students at Stanford University in Stanford, California.While conventional search engines 
+ranked results by counting how many times the search terms appeared on the page, the two theorized 
+about a better system that analyzed the relationships among websites. They called this new technology 
+PageRank; it determined a website's relevance by the number of pages, and the importance of those pages 
+that linked back to the original site.
